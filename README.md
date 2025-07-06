@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Satyam 👋
+- 🔭 I’m currently working on: ML/DL projects like Fake News Detector, Forest Fire Prediction, etc.
+- 🌱 I’m learning: Deep Learning, Transformers (BERT, LSTM), and MLOps
+- 🚀 Projects: See my pinned repos below!
+- 🧠 Interests: AI Safety, NLP, Open-Source, End-to-End Deployment
+- 📫 Reach me at: satyamghoshai12@gmail.com | [LinkedIn](https://www.linkedin.com/in/satyam-ghosh-43b81a290/)
 
-<!--
-**Satyam999999/Satyam999999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Tech Stack
+- 🧠 Machine Learning: scikit-learn, XGBoost, CatBoost
+- 🧠 Deep Learning: TensorFlow, Keras, PyTorch
+- 🛠️ MLOps: Docker, FastAPI, GitHub Actions, AWS EC2/S3/ECR
+- 🧪 NLP: NLTK, HuggingFace Transformers, spaCy
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Recent Work
+- [Network Security Threat Detection Pipeline](https://github.com/Satyam999999/Network-Security-Threat-Detection-Prediction-Pipeline)
+- [Student Performance Prediction App](https://github.com/Satyam999999/Student-Performance-Prediction-Web-App)
+- [Forest Fire Prediction ](https://github.com/Satyam999999/ForestFire)
