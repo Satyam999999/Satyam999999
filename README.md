@@ -64,37 +64,44 @@ I don’t just build models — I build complete AI systems.
 
 ## 🛠 Tech Stack
 
-### Languages
-Python, C++, C, SQL  
+---
 
-### AI / ML
-Machine Learning  
-Deep Learning  
-NLP  
-RAG Pipelines  
-LLM Applications  
-Agentic Systems  
+### 🧠 Languages
 
-### Libraries & Frameworks
-Scikit-learn  
-TensorFlow  
-HuggingFace  
-LangChain  
-CrewAI  
-LangGraph  
-Pandas  
-NumPy  
-OpenCV  
-FastAPI  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,sql" height="60" />
+</p>
 
-### ML Engineering
-Data Preprocessing  
-Feature Engineering  
-Model Training & Evaluation  
-Hyperparameter Tuning  
-Experimentation  
-MLflow  
-Docker  
+---
+
+### 🤖 AI / ML
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" height="60" />
+</p>
+
+<p align="center">
+  RAG • LLM Applications • NLP • Agentic Systems • HuggingFace • LangChain • CrewAI • LangGraph
+</p>
+
+---
+
+### 🗄 Backend & Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,postgres,mongodb,sqlite,redis" height="60" />
+</p>
+
+---
+
+### ⚙ Tools & DevOps
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,aws,gcp,mlflow,vscode" height="60" />
+</p>
+
+
+
 
 ---
 
