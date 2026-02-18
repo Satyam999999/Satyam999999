@@ -130,7 +130,7 @@ I don’t just build models — I build complete AI systems.
 
 Email: satyamghoshai12@gmail.com  
 GitHub: https://github.com/Satyam999999  
-LinkedIn: https://linkedin.com/in/satyam-ghosh  
+LinkedIn: [https://linkedin.com/in/satyam-ghosh](https://www.linkedin.com/in/satyam-ghosh-43b81a290)  
 
 ---
 
