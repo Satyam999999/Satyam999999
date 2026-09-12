@@ -114,7 +114,7 @@ Stack: Python · SQLite · Groq LLM · Streamlit · Docker
 
 > **Automates video compliance review — grounded in evidence, not a black-box score.**
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)]([https://github.com/Satyam999999](https://github.com/Satyam999999/Multimodal-Video-Compliance-Auditor-using-LangGraph-Azure-Video-Indexer-and-RAG))
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Satyam999999/Multimodal-Video-Compliance-Auditor-using-LangGraph-Azure-Video-Indexer-and-RAG)
 
 **Engineering highlights:**
 - 🎙️ **Multimodal pipeline** — STT + OCR + RAG + LLM reasoning fused into one grounded decision
@@ -132,7 +132,7 @@ Stack: Python · FastAPI · LangGraph · Groq · Azure AI Search · Azure Video 
 
 > **Benchmarked 5 architectures before trusting one — accuracy backed by real experimentation.**
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)]([https://github.com/Satyam999999](https://github.com/Satyam999999/Crop-Disease-Detection-Classification-Application))
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/Satyam999999/Crop-Disease-Detection-Classification-Application)
 
 **Engineering highlights:**
 - 🧪 **Systematic model selection** — 5 architectures benchmarked before fine-tuning ResNet50
